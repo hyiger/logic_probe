@@ -1,0 +1,82 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 74xx:74AHCT123 U3
+U 1 1 5CCD1404
+P 3800 2750
+F 0 "U3" H 3800 3217 50  0000 C CNN
+F 1 "74AHCT123" H 3800 3126 50  0000 C CNN
+F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 3800 2750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74ahct123a" H 3800 2750 50  0001 C CNN
+	1    3800 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74AHCT123 U3
+U 2 1 5CCD1DB6
+P 3850 4000
+F 0 "U3" H 3850 4467 50  0000 C CNN
+F 1 "74AHCT123" H 3850 4376 50  0000 C CNN
+F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 3850 4000 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74ahct123a" H 3850 4000 50  0001 C CNN
+	2    3850 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74AHCT123 U3
+U 3 1 5CCD29B1
+P 7500 2500
+F 0 "U3" H 7730 2546 50  0000 L CNN
+F 1 "74AHCT123" H 7730 2455 50  0000 L CNN
+F 2 "" H 7500 2500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74ahct123a" H 7500 2500 50  0001 C CNN
+	3    7500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74AHCT123 U4
+U 1 1 5CCD5AF0
+P 6250 4150
+F 0 "U4" H 6250 4617 50  0000 C CNN
+F 1 "74AHCT123" H 6250 4526 50  0000 C CNN
+F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 6250 4150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74ahct123a" H 6250 4150 50  0001 C CNN
+	1    6250 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74AHCT123 U4
+U 2 1 5CCD5AF6
+P 6300 5400
+F 0 "U4" H 6300 5867 50  0000 C CNN
+F 1 "74AHCT123" H 6300 5776 50  0000 C CNN
+F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 6300 5400 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74ahct123a" H 6300 5400 50  0001 C CNN
+	2    6300 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74AHCT123 U4
+U 3 1 5CCD607E
+P 6550 2500
+F 0 "U4" H 6780 2546 50  0000 L CNN
+F 1 "74AHCT123" H 6780 2455 50  0000 L CNN
+F 2 "" H 6550 2500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74ahct123a" H 6550 2500 50  0001 C CNN
+	3    6550 2500
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
